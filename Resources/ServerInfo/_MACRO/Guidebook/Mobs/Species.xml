@@ -20,5 +20,6 @@
     <GuideEntityEmbed Entity="MobKodepiia" Caption="Kodepiia"/>
     <GuideEntityEmbed Entity="MobGastropoid" Caption="Gastropoid"/>
     <GuideEntityEmbed Entity="MobGray" Caption="Gray"/>
+    <GuideEntityEmbed Entity="MobVulpkanin" Caption="Vulpkanin"/>
   </Box>
 </Document>
